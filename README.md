@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayanRackii 👋
 
-- 👀 I’m deeply interested in the intersection of **data science**, **web development**, **engineering** and **automation**. I believe in building intelligent and user-friendly solutions that leverage the power of data.
-
+- 👀 I’m deeply interested in the intersection of **data science**, **web development**, **engineering** and **automation**.
+  
 - 🌱 I’m currently expanding my skills in **machine learning techniques**. I'm always eager to learn and stay up-to-date with the latest advancements in these fields.
 
 - 💞️ I’m looking to collaborate on **data science projects** that involve interesting datasets, challenging analytical problems, and the opportunity to build impactful applications. 
